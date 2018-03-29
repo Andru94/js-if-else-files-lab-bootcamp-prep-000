@@ -1,4 +1,4 @@
-var name = "Susan"
+var name = "Susan";
 var height = "70";
 if (name === "Susan") {
   console.log("This is correct");
